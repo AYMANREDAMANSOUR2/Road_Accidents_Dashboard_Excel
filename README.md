@@ -36,7 +36,7 @@ Simply download the `.xlsx` file and open it using Microsoft Excel 2016 or later
 
 **Ayman Reda**  
 Data Analyst | Excel & Power BI Enthusiast  
-📩 Connect with me on [LinkedIn](https://www.linkedin.com/in/aymanreda)
+📩 Connect with me on [LinkedIn](https://www.linkedin.com/in/ayman-reda-a0808629b/)
 
 ---
 
