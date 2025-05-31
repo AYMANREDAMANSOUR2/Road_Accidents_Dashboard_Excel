@@ -9,14 +9,10 @@ It highlights key patterns and insights such as:
 - 🛻 Casualties by vehicle type (cars, bikes, buses, etc.)
 - 🛣️ Road type analysis (single, dual, roundabout...)
 - 🌍 Area analysis: Urban vs Rural
+
 - 🌙 Light conditions: Daylight vs Dark
 - 📅 Yearly/monthly trends (2021 vs 2022)
 - 📌 Top 10 districts with highest casualties
-
-
-
-![Road Accident Dashboard](Road_Accidents_Dashboard_Excel/Road.jpg)
-
 
 ## ⚙️ Tools Used
 
@@ -33,6 +29,8 @@ Simply download the `.xlsx` file and open it using Microsoft Excel 2016 or later
 ## 📷 Dashboard Preview
 
 ![Dashboard Screenshot](dc5429e9-3e60-490b-9df0-f0ad3acf7419.png)
+
+![Road Image](Road.jpg)
 
 ## 🧠 Created By
 
